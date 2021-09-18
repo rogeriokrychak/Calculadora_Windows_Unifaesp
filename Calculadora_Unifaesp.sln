@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora_Unifaesp", "Calculadora_Unifaesp\Calculadora_Unifaesp.csproj", "{077A8BA0-4125-457C-AE08-2AE2D2F05B01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{077A8BA0-4125-457C-AE08-2AE2D2F05B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077A8BA0-4125-457C-AE08-2AE2D2F05B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{077A8BA0-4125-457C-AE08-2AE2D2F05B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{077A8BA0-4125-457C-AE08-2AE2D2F05B01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9FEA59C-EFCF-4378-8B53-FE98755B8EAA}
+	EndGlobalSection
+EndGlobal
